@@ -1,0 +1,70 @@
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\StreamingServer.pdb
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.dll
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.dll
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.dll
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.xml
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.xml
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.xml
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\obj\Debug\StreamingServer.exe
+c:\users\andy\documents\visual studio 2013\Projects\StreamingServer\StreamingServer\obj\Debug\StreamingServer.pdb
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe.config
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.exe
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.pdb
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.pdb
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe.config
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.exe
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.pdb
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.pdb
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.dll
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.dll
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.xml
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.xml
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe.config
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.exe
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.pdb
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.exe
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\StreamingServer.pdb
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.dll
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.FFMPEG.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\bin\Debug\AForge.Video.VFW.xml
+G:\Documents\Dropbox\CUHK\CSCI3280\StreamingServer\StreamingServer\StreamingServer\StreamingServer\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\StreamingServer.exe.config
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\StreamingServer.exe
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\StreamingServer.pdb
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.dll
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.VFW.dll
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.xml
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\user\Desktop\328decoder\StreamingServer\bin\Debug\AForge.Video.VFW.xml
+C:\Users\user\Desktop\328decoder\StreamingServer\obj\Debug\StreamingServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\328decoder\StreamingServer\obj\Debug\StreamingServer.exe
+C:\Users\user\Desktop\328decoder\StreamingServer\obj\Debug\StreamingServer.pdb

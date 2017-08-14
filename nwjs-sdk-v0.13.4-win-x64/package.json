@@ -1,0 +1,44 @@
+{
+    "name": "CSCI3280-Karaoke",
+    "version": "0.0.1",
+    "main": "index.html",
+    "scripts": {
+        "dev": "nwjs-v0.13.3-linux-x64/nw --remote-debugging-port=9222",
+        "build": "node node_modules/webpack/bin/webpack.js --progress",
+        "watch": "node node_modules/webpack/bin/webpack.js --progress --watch"
+    },
+    "chromium-args": "--enable-overlay-scrollbar",
+    "window": {
+        "frame":        true,
+        "toolbar":      false,
+        "resizable":    true,
+        "width":        960,
+        "height":       604,
+        "min_width":    800,
+        "min_height":   600
+    },
+    "devDependencies": {
+        "babel-core":           "^6.5.0",
+        "babel-preset-react":   "^6.5.0",
+        "babel-preset-es2015":  "^6.5.0",
+        "babel-preset-stage-3": "^6.5.0",
+        "webpack":              "^1.12.0",
+        "html-webpack-plugin":  "^1.7.0",
+        "copy-webpack-plugin":  "^0.3.0",
+        "css-loader":           "^0.23.0",
+        "style-loader":         "^0.13.0",
+        "url-loader":           "^0.5.0",
+        "file-loader":          "^0.8.0",
+        "raw-loader":           "^0.5.1",
+        "babel-loader":         "^6.2.0"
+    },
+    "dependencies": {
+        "react":                    "^0.14.0",
+        "react-dom":                "^0.14.0",
+        "font-awesome":             "^4.5.0",
+        "material-ui":              "^0.14.0",
+        "react-tap-event-plugin":   "^0.2.0",
+        "crc-32":                   "^0.3.0",
+        "ppm":                      "^0.0.0"
+    }
+}
